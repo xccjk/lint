@@ -1,0 +1,15 @@
+{
+  "name": "xcc-commitlint",
+  "version": "0.1.0",
+  "description": "xcc commit lint",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "xcc <1025886304@qq.com>",
+  "license": "ISC",
+  "dependencies": {
+    "@commitlint/cli": "^11.0.0",
+    "@commitlint/config-conventional": "^11.0.0"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "xcc-standard-stylelint",
+  "version": "0.1.0",
+  "description": "xcc stylelint",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "xcc <1025886304@qq.com>",
+  "license": "ISC",
+  "dependencies": {
+    "stylelint": "^13.8.0",
+    "stylelint-config-prettier": "^8.0.2",
+    "stylelint-config-rational-order": "^0.1.2",
+    "stylelint-config-standard": "^20.0.0",
+    "stylelint-declaration-block-no-ignored-properties": "^2.3.0",
+    "stylelint-order": "^4.1.0",
+    "stylelint-prettier": "^1.1.2"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "xcc-standard-prettier",
+  "version": "0.1.0",
+  "description": "xcc prettie",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "xcc <1025886304@qq.com>",
+  "license": "ISC",
+  "dependencies": {
+    "prettier": "^2.2.1"
+  }
+}

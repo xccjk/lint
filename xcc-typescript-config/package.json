@@ -1,0 +1,11 @@
+{
+  "name": "xcc-typescript-config",
+  "version": "0.1.0",
+  "description": "xcc typescript config",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "xcc <1025886304@qq.com>",
+  "license": "ISC"
+}
